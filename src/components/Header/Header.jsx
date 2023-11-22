@@ -12,6 +12,7 @@ const Header = () => {
         <li>Why us</li>
         <li>Plans</li>
         <li>Testimonials</li>
+        <li>Test</li>
         
 
       </ul>
